@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am an Electronics and Communication Engineering undergraduate at LNMIIT, merging hardware aerodynamics with software intelligence.
 
 Robotics & Propulsion: I engineered a functional J79 Electric Jet Engine prototype featuring a custom afterburner for active thrust, alongside biomimetic ornithopter wings. I am a core member of the Phoenix Robotics Society.
